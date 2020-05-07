@@ -1,0 +1,7 @@
+com\xuecheng\api\course\CourseControllerApi.class
+com\xuecheng\api\cms\CmsTemplateControllerApi.class
+com\xuecheng\api\cms\CmsPageControllerApi.class
+com\xuecheng\api\cms\CmsSiteControllerApi.class
+com\xuecheng\api\course\CategoryControllerApi.class
+com\xuecheng\api\config\Swagger2Configuration.class
+com\xuecheng\api\cms\CmsConfigControllerApi.class
